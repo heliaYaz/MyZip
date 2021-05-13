@@ -11,6 +11,7 @@ public class Program {
 
 
     public static Program getInstance(){
+        //singletone
         return instance;
     }
 
